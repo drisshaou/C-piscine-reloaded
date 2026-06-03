@@ -96,10 +96,6 @@ Only the files specified in each exercise may be present in the corresponding di
 - [Understanding pointers in C — cs.yale.edu](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Pointers.html)
 - [Makefile tutorial](https://makefiletutorial.com/)
 
-### AI usage
-
-Claude (Anthropic) was used solely to generate this README. All exercise implementations were written manually without AI assistance, in line with the 42 AI policy for this foundational phase.
-
 ### Switching from HTTPS to SSH protocol.
 
 To check what protocol you're using just run:
